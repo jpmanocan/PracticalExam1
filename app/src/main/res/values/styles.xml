@@ -56,6 +56,13 @@
         <item name="android:text">INFO</item>
     </style>
 
+    <style name = "TextSix">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">80sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
     <style name = "buttonOne">
         <item name="android:background">@drawable/rounded_button</item>
         <item name="android:text">CONNECT NOW</item>
